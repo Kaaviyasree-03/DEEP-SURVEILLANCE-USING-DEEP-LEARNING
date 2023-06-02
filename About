@@ -1,0 +1,5 @@
+It’s about Detecting the abnormal activity (i.e. anomaly) that happens around the day to live and alerting the people or doing the necessary steps if an anomaly occurs.
+It also depends on the appearance of the objects and their movements in the scene. I used XGBoost Algorithm which means the Yolo model. It optimizes and learns video data. 
+XGBoost, which stands for Extreme Gradient Boosting, is a scalable, distributed gradient-boosted decision tree (GBDT) machine learning library.
+XGBoost is a robust machine-learning algorithm that can help you understand your data and make better decisions. In this model it has two types Violence and Non-Violence activity,
+if any Violence activity has been done it predicts the output as an Abnormal event and if any Non-Violence activity has been done it predicts the output as a Normal event.
